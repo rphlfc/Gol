@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D80A69B263A23D50011944F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3D80A69A263A23D50011944F /* README.md */; };
 		3DF76DFC2638D97E002EDE7A /* GolApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF76DFB2638D97E002EDE7A /* GolApp.swift */; };
 		3DF76DFE2638D97E002EDE7A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF76DFD2638D97E002EDE7A /* ContentView.swift */; };
 		3DF76E002638D983002EDE7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DF76DFF2638D983002EDE7A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D80A69A263A23D50011944F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3DF76DF82638D97E002EDE7A /* Gol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gol.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DF76DFB2638D97E002EDE7A /* GolApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GolApp.swift; sourceTree = "<group>"; };
 		3DF76DFD2638D97E002EDE7A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		3DF76DEF2638D97E002EDE7A = {
 			isa = PBXGroup;
 			children = (
+				3D80A69A263A23D50011944F /* README.md */,
 				3DF76DFA2638D97E002EDE7A /* Gol */,
 				3DF76DF92638D97E002EDE7A /* Products */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D80A69B263A23D50011944F /* README.md in Resources */,
 				3DF76E032638D983002EDE7A /* Preview Assets.xcassets in Resources */,
 				3DF76E002638D983002EDE7A /* Assets.xcassets in Resources */,
 			);
